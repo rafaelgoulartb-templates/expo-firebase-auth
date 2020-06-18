@@ -1,13 +1,13 @@
 <h1 align="center">Expo + Firebase - Login Template</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/RafaelGoulartB/RandomNumberApp#readme">
+  <a href="https://github.com/RafaelGoulartB/expo-firebase-login-template#readme">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" target="_blank" />
   </a>
-  <a href="https://github.com/RafaelGoulartB/RandomNumberApp/graphs/commit-activity">
+  <a href="https://github.com/RafaelGoulartB/expo-firebase-login-template/graphs/commit-activity">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" target="_blank" />
   </a>
-  <a href="https://github.com/RafaelGoulartB/RandomNumberApp/blob/master/LICENSE">
+  <a href="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/LICENSE">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
   </a>
 </p>
@@ -20,6 +20,11 @@
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-signup.png" width="250px"/>
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot_login.png" width="250px"/>
+</div>
 
 # :rocket: Features
 
@@ -42,14 +47,14 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Insta](https://github.com/RafaelGoulartB/RandomApp/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Expo + Firebase login template](https://github.com/RafaelGoulartB/expo-firebase-login-template/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # :closed_book: License
 
 Released in 2020 :closed_book: License
 
-Made with love by [Rafael Goulart](https://github.com/RandomApp) 🚀.
-This project is under the [MIT license](https://github.com/RafaelGoulartB/RandomApp/master/LICENSE).
+Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB/expo-firebase-login-template) 🚀.
+This project is under the [MIT license](https://github.com/RafaelGoulartB/expo-firebase-login-template/LICENSE).
 
 
 Give a ⭐️ if this project helped you!
