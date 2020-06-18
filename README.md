@@ -47,7 +47,7 @@ Aferter read the QRCode with the app of [expo](https://play.google.com/store/app
 
 # :bug: Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Insta](https://github.com/RafaelGoulartB/RandomApp/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Expo + Firebase login template](https://github.com/RafaelGoulartB/RandomApp/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 # :closed_book: License
 
