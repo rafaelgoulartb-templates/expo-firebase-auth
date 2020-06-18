@@ -1,4 +1,4 @@
-<h1 align="center">InstaPet</h1>
+<h1 align="center">Expo + Firebase - Login Template</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/RafaelGoulartB/RandomNumberApp#readme">
@@ -12,31 +12,20 @@
   </a>
 </p>
 
-> React-Native - A based on instagram app developed to learn how to build a social network
+> Template of Authentication flow and firebase login.
 
 # :pushpin: Table of Contents
 
-* [Technologies](#computer-technologies)
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
 
-# :computer: Technologies
-This project was made using the follow technologies:
-<ul>
-  <li><a href="https://reactnative.dev/">React Native</a></li>
-  <li><a href="https://redux.js.org/introduction/getting-started">Redux</a></li>
-  <li><a href="https://expo.io/">Expo</a></li>
-  <li><a href="https://eslint.org/">Eslint</a></li>
-</ul>
-
 # :rocket: Features
 
 * Register and SignIn user with email and passoword using Firebase
-* Social login with Firebase (Google and Facebook)
-* Feed with posts
-* Profile Screen
+* Beautiful Design
+* Authentication Flow
 
 
 # :construction_worker: How to run
