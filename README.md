@@ -22,8 +22,8 @@
 * [License](#closed_book-license)
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-signup.png" width="180px"/>
-  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot_login.png" width="180px"/>
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-signup.png" width="250px"/>
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot_login.png" width="250px"/>
 </div>
 
 # :rocket: Features
