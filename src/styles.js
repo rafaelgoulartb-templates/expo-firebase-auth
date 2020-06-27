@@ -1,7 +1,7 @@
 import styled from "styled-components/native";
 import Constants from "expo-constants";
 
-export const PageContainer = styled.View`
+export const PageContainer = styled.KeyboardAvoidingView`
   flex: 1px;
   padding-top: ${Constants.statusBarHeight + 20}px;
   background-color: #feffff;
