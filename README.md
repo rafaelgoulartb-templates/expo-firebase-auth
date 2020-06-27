@@ -21,9 +21,10 @@
 * [Found a bug? Missing a specific feature?](#bug-issues)
 * [License](#closed_book-license)
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-signup.png" width="250px"/>
-  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot_login.png" width="250px"/>
+<div style="display: flex;">
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-signup.png" width="200px"/>
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot_login.png" width="200px"/>
+  <img src="https://github.com/RafaelGoulartB/expo-firebase-login-template/blob/master/screenshots/screenshot-forgot-pass.png" width="200px"/>
 </div>
 
 # :rocket: Features
